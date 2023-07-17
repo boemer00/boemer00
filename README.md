@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center"> Machine Learning Engineer</h3>
+<h3 align="center"> Machine Learning Engineer and Optimization enthusiast</h3>
 
-- 🔭 Currently working on **contract projects**
+- 🔭 Currently working on bold **contract projects**
 
 - 📫 How to reach me **boemer00@gmail.com**
 
