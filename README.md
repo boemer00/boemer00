@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
 <h3 align="center"> Deep Learning Specialist</h3>
 
-- 🔭 Currently working on bold **contract projects**
+- 🔭 Currently working on ML/DL **contract projects**
 
 - 📫 How to reach me **boemer00@gmail.com**
 
 - 🤖 I also teach ML and DL **at Le Wagon**
 
-- 🧠 Neuroscience graduate from **University of Cambridge**
+- 🧠 Graduated in Neuroscience at **University of Cambridge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
