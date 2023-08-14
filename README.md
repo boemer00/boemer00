@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center"> Deep Learning Specialist</h3>
+<h3 align="center"> Machine Learning Specialist</h3>
 
 - 🔭 Currently working on ML/DL **contract projects**
 
