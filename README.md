@@ -1,13 +1,15 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center"> Machine Learning Specialist</h3>
+<h3 align="center"> Machine Learning Researcher and Aerospace Enthusiast</h3>
 
-- 🔭 Currently working on ML/DL **contract projects**
+- 🔭 Working on ML/DL **contract projects**
 
 - 📫 How to reach me **boemer00@gmail.com**
 
-- 🤖 I also teach ML and DL **at Le Wagon**
+- 🤖 I also teach Neural Networks and Math **at Le Wagon**
 
 - 🧠 Graduated in Neuroscience at **University of Cambridge**
+
+- 🚀 Currently studying Physics at **Open University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
