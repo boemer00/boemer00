@@ -7,8 +7,6 @@
 
 - 🧠 Neuroscience graduate from the **University of Cambridge**
 
-- 🚀 Studying Physics at **Open University**
-
 - 📫 How to reach me **boemer00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
