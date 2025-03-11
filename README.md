@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center">ML Engineer / Computer Vision</h3>
+<h3 align="center">ML Engineer / Conversational AI Agents</h3>
 
 - 🔭 Working on **contract projects**
 
