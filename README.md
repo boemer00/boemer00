@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center">CTO / ML Engineer</h3>
+<h3 align="center">Founder / CTO / ML Engineer</h3>
 
 - 🚀 Founder and CTO of a **tech startup**
 
