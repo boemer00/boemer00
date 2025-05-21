@@ -1,13 +1,15 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center"> ML Engineer / Entrepreneur / CTO</h3>
+<h3 align="center"> AI Engineer / Entrepreneur / CTO</h3>
 
-- 💬 **ML and Conversational AI** specialist
+- 💬 **AI and predictive modelling** specialist
   
-- 🚀 Tech startup **entrepreneur**
+- 🚀 Tech startup **entrepreneur in residence**
 
 - 🧠 Neuroscience graduate from the **University of Cambridge**
 
 - 🤖 Deep Learning lecturer at **Le Wagon**
+
+- 🇬🇧 Currently in the **UK** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
