@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center"> AI Engineer / Entrepreneur / CTO</h3>
+<h3 align="center"> AI Engineer / Entrepreneur</h3>
 
 - 💬 **AI and predictive modelling** specialist
-  
-- 🚀 Tech startup **entrepreneur in residence**
 
 - 🧠 Neuroscience graduate from the **University of Cambridge**
 
