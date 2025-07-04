@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
 <h3 align="center"> AI Engineer / Entrepreneur</h3>
 
-- 💬 **AI and predictive modelling** specialist
+- 💬 **AI and RAG Systems** specialist
 
 - 🧠 Neuroscience graduate from the **University of Cambridge**
 
-- 🤖 Deep Learning lecturer at **Le Wagon**
+- 🤖 Machine Learning lecturer at **Le Wagon**
 
 - 🇬🇧 Currently in the **UK** 
 
