@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
 <h3 align="center">AI Engineer | Entrepreneur</h3>
 
-- 💡 **RAG Systems & LLM Orchestration** Engineer
+- 💡 **AI Engineer** delivering Automation and Conversational AI projects
   
-- 📚 Building end-to-end RAG pipelines using LangChain and Vector databases
+- 📚 Building end-to-end **RAG pipelines** and **AI agents**
   
 - 🧠 Neuroscience graduate from the **University of Cambridge**
   
-- 🤖 Machine Learning lecturer at **Le Wagon**
+- 🤖 Deep Learning lecturer at **Le Wagon**
   
 - 🇬🇧 Currently in the **UK**
 
