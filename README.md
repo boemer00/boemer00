@@ -3,11 +3,11 @@
 
 - 💡 **AI Engineer** delivering Conversational AI projects
   
-- 📚 Building the largest **longevity database** for business insights
+- 💾 Building the largest **longevity database** for business insights
   
 - 🧠 Neuroscience graduate from the **University of Cambridge**
   
-- 🤖 Deep Learning lecturer at **Le Wagon**
+- 📚 Deep Learning lecturer at **Le Wagon**
   
 - 🇬🇧 Currently in the **UK**
 
