@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
 <h3 align="center">AI Engineer | Entrepreneur</h3>
 
-- 💡 **AI Engineer** delivering Automation and Conversational AI projects
+- 💡 **AI Engineer** delivering Conversational AI projects
   
-- 📚 Building end-to-end **RAG pipelines** and **AI agents**
+- 📚 Building the largest **longevity database** for business insights
   
 - 🧠 Neuroscience graduate from the **University of Cambridge**
   
