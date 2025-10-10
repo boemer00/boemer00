@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center">AI Engineer | Entrepreneur</h3>
+<h3 align="center">AI Engineer</h3>
 
 - 💡 **AI Engineer** delivering Conversational AI projects
+
+- 🦜 Big fan of **LangChain** and **LangGraph** for agentic AI.
   
 - 🧠 Neuroscience graduate from the **University of Cambridge**
   
-- 📚 Deep Learning lecturer at **Le Wagon**
-  
-- 🇬🇧 Currently in the **UK**
+- 📚 AI lecturer at **Le Wagon** Bootcamp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
