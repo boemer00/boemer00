@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
 <h3 align="center">AI Engineer</h3>
 
-- 💡 **AI Engineer** delivering Conversational AI projects
+- 💡 **AI Engineer** helping SMBs with AI marketing automation
 
 - 🦜 Big fan of **LangChain** and **LangGraph** for agentic AI.
   
