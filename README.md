@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🖖, I'm Renato Boemer</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">AI Engineer & Strategist</h3>
 
-- 💡 **AI Engineer** helping SMBs with AI marketing automation
+- 💡 I help forward-thinking **SMBs** with AI and marketing automation
 
-- 🦜 Big fan of **LangChain** and **LangGraph** for agentic AI.
+- 🚀 Big fan of **n8n** to ship business solutions faster
   
 - 🧠 Neuroscience graduate from the **University of Cambridge**
   
