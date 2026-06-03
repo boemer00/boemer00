@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧠 Neuroscience graduate from the University of Cambridge<br>💡 I help forward-thinking SMBs with AI and marketing automation<br>🚀 Big fan of n8n to ship business solutions faster<br>📚 AI lecturer at Le Wagon Bootcamp</p>
+<p align="left">🧠 Neuroscience graduate from the University of Cambridge<br>💡 I help startups with AI, LLMs, and marketing engineering<br>🚀 Leading the AI and Prod team at Veloz<br>📚 AI lecturer at Le Wagon Bootcamp</p>
 
 ###
 
