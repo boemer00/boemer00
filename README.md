@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧠 Neuroscience graduate from the University of Cambridge<br>💡 I help startups with AI, LLMs, and Answer Engine Optimization (AEO)<br>🚀 Leading the AI and Prod team at Veloz<br>📚 AI lecturer at Le Wagon Bootcamp</p>
+<p align="left">🧠 Neuroscience graduate from the University of Cambridge<br>💡 I help startups with AI, LLMs, and Answer Engine Optimization (AEO)<br>🚀 Leading the AI and Product development at Veloz<br>🔬 Researching memory architectures for AI agents</p>
 
 ###
 
@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo"  />
   <img width="12" />
