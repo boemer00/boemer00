@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧠 Neuroscience graduate from the University of Cambridge<br>🚀 Leading the AI and Product development at Veloz<br>💡 I help startups with AI, LLMs, and Answer Engine Optimization (AEO)<br>🔬 Researching memory architectures for AI agents</p>
+<p align="left">🧠 Neuroscience graduate from the University of Cambridge<br>🚀 CTO at Veloz<br>💡 I help startups with AI Agents, LLMs, and Answer Engine Optimization (AEO)<br>🔬 Researching memory architectures for AI agents</p>
 
 ###
 
